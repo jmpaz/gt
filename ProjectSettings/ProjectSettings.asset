@@ -28,10 +28,10 @@ PlayerSettings:
   m_SplashScreenBackgroundPortraitAspect: 1
   m_SplashScreenBackgroundLandscapeUvs:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1
-    height: 1
+    x: 0.3125
+    y: 0.3125
+    width: 0.375
+    height: 0.375
   m_SplashScreenBackgroundPortraitUvs:
     serializedVersion: 2
     x: 0
@@ -39,7 +39,7 @@ PlayerSettings:
     width: 1
     height: 1
   m_SplashScreenLogos: []
-  m_VirtualRealitySplashScreen: {fileID: 2800000, guid: 3173bd0f655d5524d8e3280b37b332c4,
+  m_VirtualRealitySplashScreen: {fileID: 2800000, guid: 35559b8e258a1db438e4dfbc2a3a197c,
     type: 3}
   m_HolographicTrackingLossScreen: {fileID: 0}
   defaultScreenWidth: 1024
@@ -154,7 +154,7 @@ PlayerSettings:
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 19
   AndroidTargetSdkVersion: 0
-  AndroidPreferredInstallLocation: 1
+  AndroidPreferredInstallLocation: 0
   aotOptions: 
   stripEngineCode: 1
   iPhoneStrippingLevel: 0
@@ -224,25 +224,25 @@ PlayerSettings:
   appleEnableAutomaticSigning: 0
   AndroidTargetDevice: 0
   AndroidSplashScreenScale: 0
-  androidSplashScreen: {fileID: 0}
+  androidSplashScreen: {fileID: 2800000, guid: 35559b8e258a1db438e4dfbc2a3a197c, type: 3}
   AndroidKeystoreName: 
   AndroidKeyaliasName: 
   AndroidTVCompatibility: 1
-  AndroidIsGame: 1
+  AndroidIsGame: 0
   AndroidEnableTango: 0
   androidEnableBanner: 1
   androidUseLowAccuracyLocation: 0
   m_AndroidBanners:
   - width: 320
     height: 180
-    banner: {fileID: 2800000, guid: 3173bd0f655d5524d8e3280b37b332c4, type: 3}
+    banner: {fileID: 2800000, guid: 35559b8e258a1db438e4dfbc2a3a197c, type: 3}
   androidGamepadSupportLevel: 0
   resolutionDialogBanner: {fileID: 0}
   m_BuildTargetIcons:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 3173bd0f655d5524d8e3280b37b332c4, type: 3}
+      m_Icon: {fileID: 2800000, guid: 35559b8e258a1db438e4dfbc2a3a197c, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
@@ -510,7 +510,8 @@ PlayerSettings:
   psp2InfoBarColor: 0
   psp2ScriptOptimizationLevel: 0
   psmSplashimage: {fileID: 0}
-  splashScreenBackgroundSourceLandscape: {fileID: 0}
+  splashScreenBackgroundSourceLandscape: {fileID: 10917, guid: 0000000000000000f000000000000000,
+    type: 0}
   splashScreenBackgroundSourcePortrait: {fileID: 0}
   spritePackerPolicy: 
   webGLMemorySize: 256
@@ -612,12 +613,14 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    Collab: 1
+    UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 
-  projectName: 
-  organizationId: 
+  cloudProjectId: ce275b02-e2fd-4dd6-b1f7-58a49171c6ef
+  projectName: plane
+  organizationId: 0jfpz0
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

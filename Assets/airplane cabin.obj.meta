@@ -39,6 +39,7 @@ ModelImporter:
     2300014: Tube001_MeshPart7
     2300016: Tube001_MeshPart8
     2300018: Tube001_MeshPart9
+    2300020: Tube001
     3300000: Tube001_MeshPart0
     3300002: Tube001_MeshPart1
     3300004: Tube001_MeshPart2
@@ -49,6 +50,7 @@ ModelImporter:
     3300014: Tube001_MeshPart7
     3300016: Tube001_MeshPart8
     3300018: Tube001_MeshPart9
+    3300020: Tube001
     4300000: Tube001_MeshPart0
     4300002: Tube001_MeshPart1
     4300004: Tube001_MeshPart2
@@ -59,12 +61,13 @@ ModelImporter:
     4300014: Tube001_MeshPart7
     4300016: Tube001_MeshPart8
     4300018: Tube001_MeshPart9
+    4300020: Tube001
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Tube001Mat
-    second: {fileID: 2100000, guid: ed9616c6e7e967841be65508ac51e434, type: 2}
+    second: {fileID: 2100000, guid: 71a866198f063334c937b6b21994dc09, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -95,7 +98,7 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 0
+    meshCompression: 2
     addColliders: 0
     importVisibility: 1
     importBlendShapes: 1

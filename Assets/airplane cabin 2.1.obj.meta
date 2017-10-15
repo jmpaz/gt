@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: d74a917bca304eb468024a25c8555fbc
+timeCreated: 1508032356
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box001
+    100004: Box002
+    100006: Box003
+    100008: Box004
+    100010: Box005
+    100012: Capsule001
+    100014: Layer_passanger_seat001
+    100016: Layer_passanger_seat002
+    100018: Layer_passanger_seat003
+    100020: Layer_passanger_seat004
+    100022: Layer_passanger_seat005
+    100024: Layer_passanger_seat006
+    100026: Layer_passanger_seat007
+    100028: Layer_passanger_seat008
+    100030: Prism001
+    400000: //RootNode
+    400002: Box001
+    400004: Box002
+    400006: Box003
+    400008: Box004
+    400010: Box005
+    400012: Capsule001
+    400014: Layer_passanger_seat001
+    400016: Layer_passanger_seat002
+    400018: Layer_passanger_seat003
+    400020: Layer_passanger_seat004
+    400022: Layer_passanger_seat005
+    400024: Layer_passanger_seat006
+    400026: Layer_passanger_seat007
+    400028: Layer_passanger_seat008
+    400030: Prism001
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Capsule001
+    2300012: Layer_passanger_seat001
+    2300014: Layer_passanger_seat002
+    2300016: Layer_passanger_seat003
+    2300018: Layer_passanger_seat004
+    2300020: Layer_passanger_seat005
+    2300022: Layer_passanger_seat006
+    2300024: Layer_passanger_seat007
+    2300026: Layer_passanger_seat008
+    2300028: Prism001
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Capsule001
+    3300012: Layer_passanger_seat001
+    3300014: Layer_passanger_seat002
+    3300016: Layer_passanger_seat003
+    3300018: Layer_passanger_seat004
+    3300020: Layer_passanger_seat005
+    3300022: Layer_passanger_seat006
+    3300024: Layer_passanger_seat007
+    3300026: Layer_passanger_seat008
+    3300028: Prism001
+    4300000: Box001
+    4300002: Box002
+    4300004: Box003
+    4300006: Box004
+    4300008: Box005
+    4300010: Capsule001
+    4300012: Layer_passanger_seat001
+    4300014: Layer_passanger_seat002
+    4300016: Layer_passanger_seat003
+    4300018: Layer_passanger_seat004
+    4300020: Layer_passanger_seat005
+    4300022: Layer_passanger_seat006
+    4300024: Layer_passanger_seat007
+    4300026: Layer_passanger_seat008
+    4300028: Prism001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box001Mat
+    second: {fileID: 2100000, guid: 390a4993b01edf744804bd72d419a599, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box002Mat
+    second: {fileID: 2100000, guid: 4a7658577b33ca0498928511b96210d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box003Mat
+    second: {fileID: 2100000, guid: b87c5fc435e7e7e409fd0a9a14b5100c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box004Mat
+    second: {fileID: 2100000, guid: be52125cc620fa641822c96e58112e21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box005Mat
+    second: {fileID: 2100000, guid: ab17321749b2d6b499e3897b1d0b891a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Capsule001Mat
+    second: {fileID: 2100000, guid: fee5c9a10b7e47845b316e80f581c98c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Layer_passanger_seat001Mat
+    second: {fileID: 2100000, guid: 471ebbc1702112142a2883ff39ce8394, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Layer_passanger_seat002Mat
+    second: {fileID: 2100000, guid: 8ae5ddfd55f675e4ead9f21dc7162171, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Layer_passanger_seat003Mat
+    second: {fileID: 2100000, guid: 977653ce32afc8b4ca551d3c2dbdc44e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Layer_passanger_seat004Mat
+    second: {fileID: 2100000, guid: ffb28e67a9bc9834cbd9986221ce8327, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Layer_passanger_seat005Mat
+    second: {fileID: 2100000, guid: 6831c30c183f0504fb024a4cb2a49f9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Layer_passanger_seat006Mat
+    second: {fileID: 2100000, guid: 78e7ea339d0dd85438d6e2d13fa53910, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Layer_passanger_seat007Mat
+    second: {fileID: 2100000, guid: 2bde17aa792e8434c937ad2a882332b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Layer_passanger_seat008Mat
+    second: {fileID: 2100000, guid: d6cfb6553b6a77841b02b57e47a869ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prism001Mat
+    second: {fileID: 2100000, guid: f6937f74da092a04bbf650ef99d13cf2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
