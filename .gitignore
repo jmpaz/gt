@@ -9,6 +9,7 @@ WindowsBuild/*
 
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
+.vscode
 ExportedObj/*
 *.svd
 *.userprefs
